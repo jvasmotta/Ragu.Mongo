@@ -5,13 +5,13 @@
     <RootNamespace>Ragu.Mongo</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<PackageIcon>nuget_logo.png</PackageIcon>
+	<PackageIcon>nuget_logo.jpeg</PackageIcon>
     <Description>Basic Mongo class and methods</Description>
     <Authors>João Victor A. S. Motta</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="nuget_logo.png" Pack="true" Visible="false" PackagePath="\" />
+    <None Include="nuget_logo.jpeg" Pack="true" Visible="false" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>
